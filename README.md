@@ -64,6 +64,9 @@ Evaluated campaign performance metrics and engagement trends.
 
 - **LinkedIn**: [www.linkedin.com/in/precious-sam-edu](https://www.linkedin.com/in/precious-sam-edu)
 - Email: vodinanoble@gmail.com
+---
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app.api?username=PreciousEdu&show_icons=true)
 <!--
 **PreciousEdu/PreciousEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
