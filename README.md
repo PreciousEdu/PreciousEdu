@@ -1,11 +1,11 @@
 ## Hi there 👋
-# Hi, I'm Precious Sam Edu 👋
+# I'm Precious Sam Edu
 
-## Data Analyst | Excel | SQL | Power BI
+## Data Analyst | Excel | SQL | Power BI | Python
 
 I am a data analyst passionate about transforming raw data into actionable business insights through data cleaning, visualization, and storytelling.
 
-I build projects focused on:
+**I build** projects focused on:
 - Business Intelligence
 - Sales Analytics
 - Customer Insights
@@ -17,24 +17,25 @@ I build projects focused on:
 ## Technical Skills
 
 ### Data Analysis
-- Microsoft Excel
+- Excel
 - SQL
 - Power BI
 - Data Cleaning
 - Data Visualization
-- Pivot Tables
+- Python, Pandas
 - Dashboard Design
 
 ### Analytical Skills
 - Trend Analysis
-- KPI Reporting
 - Business Insights
 - Data Storytelling
 - Performance Analysis
 
 ---
 
-## Featured Projects
+## Featured Projects⚡
+- **[Portfolio](https://github.com/PreciousEdu/portfolio)**: Excel, SQL, PowerBI, Python and other analytics projects.
+Check out all my projects above!
 
 ### Sales Performance Dashboard
 Analyzed sales trends, customer behavior, and revenue performance using Excel dashboards and pivot tables.
@@ -53,7 +54,7 @@ Evaluated campaign performance metrics and engagement trends.
 ## Current Goals
 
 - Secure a Data Analyst role
-- Build strong analytics projects
+- Build strong analytics projects Python, SQL and Power BI
 - Improve SQL and Power BI expertise
 - Contribute to real-world business analytics projects
 
@@ -61,7 +62,7 @@ Evaluated campaign performance metrics and engagement trends.
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/vodina-edu-b5a8b1252
+- **LinkedIn**: [www.linkedin.com/in/precious-sam-edu](https://www.linkedin.com/in/precious-sam-edu)
 - Email: vodinanoble@gmail.com
 <!--
 **PreciousEdu/PreciousEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
