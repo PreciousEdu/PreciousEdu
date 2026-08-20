@@ -66,7 +66,8 @@ Evaluated campaign performance metrics and engagement trends.
 - Email: vodinanoble@gmail.com
 ---
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app.api?username=PreciousEdu&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app.api?username=PreciousEdu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousEdu&layout=compact&theme=radical)
 <!--
 **PreciousEdu/PreciousEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
